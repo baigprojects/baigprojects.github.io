@@ -31,11 +31,15 @@ Designed and implemented an Arduino-based temperature and humidity monitoring sy
 
 ### Bank Account Application
 
-![Bank Account Application](assets/bank_app_image.jfif)
+![Bank Account Application](assets/bank_app_image.png)
 
 **Technologies Used**: _JavaFX, Java, Graphical User Interface (GUI)_
 
-Developed a Bank Account Application designed for both Managers and Customers, featuring tiered privileges based on account balance and secure data management. The application includes key banking functionalities such as authentication, transaction management, and account balance tracking, with distinct benefits for different privilege levels. Secure authentication protocols and role-based access management were implemented to ensure data security and efficient account administration, resulting in a robust, user-friendly application for banking operations.
+Developed a Bank Account Application designed for both Managers and Customers, featuring tiered privileges based on account balance and secure data management. The application includes key banking functionalities such as authentication, transaction management, and account balance tracking, with distinct benefits for different privilege levels. Secure authentication protocols and role-based access management were implemented to ensure data security and efficient account administration, resulting in a robust, user-friendly application for banking operations. <br>
+
+**Demo Video:**
+
+![BankApp GIF](assets/bankappvid.gif)
 
 ### Simple General-Purpose Processor
 

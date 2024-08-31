@@ -14,8 +14,9 @@ Developed a full-stack chatbox application that integrates with the OpenAI API t
 
 ![ChatBot GIF](assets/chatboxvid.gif)
 
-
-
+ <br>
+    <br>
+    
 ### Interactive Temperature and Humidity Display
 
 ![Interactive Temperature and Humidity Display](assets/interactive.jfif)
@@ -28,8 +29,11 @@ Designed and implemented an Arduino-based temperature and humidity monitoring sy
 
 ![Interactive Arduino GIF](assets/Untitled.gif)
 
-
+ <br>
+    <br>
+    
 ### Bank Account Application
+<br>
 
 ![Bank Account Application](assets/bank_app_image.png)
 
@@ -41,6 +45,9 @@ Developed a Bank Account Application designed for both Managers and Customers, f
 
 ![BankApp GIF](assets/bankappvid.gif)
 
+ <br>
+    <br>
+    
 ### Simple General-Purpose Processor
 
 ![Simple General-Purpose Processor](assets/processor_image.jfif)
@@ -61,7 +68,9 @@ Developed a hands-on electronics project that features a prototype Ultrasonic Di
 
 ![Sensor GIF](assets/sensorvid.gif)
 
-
+ <br>
+    <br>
+    
 ## Work Experience
 **Sales Associate @ Dollar Tree (_July 2021 - Aug 2024_)**
 - Processed over 150 sales transactions daily with 99.9% accuracy, resulting in a seamless customer checkout experience and increased revenue by 15%.

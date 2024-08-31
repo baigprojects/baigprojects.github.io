@@ -3,10 +3,12 @@ logo: /assets/transparent_circle_image.png
 
 description: | 
   I’m a 3rd-year Computer Engineering student at TMU, passionate about software development, embedded systems, and microcontroller projects.
+  <br>
   Connect with me:
-  - linkedin.com/in/sahulbaig        
+  linkedin.com/in/sahulbaig  
+  <br>
   Feel free to contact me at:
-  - sahulb2016@gmail.com
+  sahulb2016@gmail.com
 
 show_downloads: false
 theme: jekyll-theme-minimal

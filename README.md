@@ -4,11 +4,17 @@
 
 ### Chatbot Application
 
-![Chatbot Application](assets/chatbot_image.jfif)
+![Chatbot Application](assets/chatbot_image.png)
 
 **Technologies Used**: _JavaScript, HTML/CSS, Node.js, Express.js, OpenAI API_
 
-Developed a full-stack chatbox application that integrates with the OpenAI API to simulate interactive conversations. The application features dynamic user and bot interactions, with real-time response animations that mimic typing behavior. The project focuses on enhancing user engagement through responsive design and smooth asynchronous operations.
+Developed a full-stack chatbox application that integrates with the OpenAI API to simulate interactive conversations. The application features dynamic user and bot interactions, with real-time response animations that mimic typing behavior. The project focuses on enhancing user engagement through responsive design and smooth asynchronous operations.<br>
+
+**Demo Video:**
+
+![ChatBot GIF](assets/chatboxvid.gif)
+
+
 
 ### Interactive Temperature and Humidity Display
 

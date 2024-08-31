@@ -8,7 +8,7 @@
 
 **Technologies Used**: _JavaScript, HTML/CSS, Node.js, Express.js, OpenAI API_
 
-Developed a full-stack chatbox application that integrates with the OpenAI API to simulate interactive conversations. The application features dynamic user and bot interactions, with real-time response animations that mimic typing behavior. The project focuses on enhancing user engagement through responsive design and smooth asynchronous operations.<br>
+Developed a full-stack chatbox application using JavaScript, HTML, and CSS, leveraging Node.js and Express.js to integrate with the OpenAI API for simulating interactive conversations. The application features dynamic user and bot interactions with real-time response animations that mimic typing behavior. The project focuses on enhancing user engagement through responsive design and smooth asynchronous operations.<br>
 
 **Demo Video:**
 
@@ -38,7 +38,7 @@ Designed and implemented an Arduino-based temperature and humidity monitoring sy
 
 **Technologies Used**: _JavaFX, Java, Graphical User Interface (GUI)_
 
-Developed a Bank Account Application designed for both Managers and Customers, featuring tiered privileges based on account balance and secure data management. The application includes key banking functionalities such as authentication, transaction management, and account balance tracking, with distinct benefits for different privilege levels. Secure authentication protocols and role-based access management were implemented to ensure data security and efficient account administration, resulting in a robust, user-friendly application for banking operations. <br>
+Developed a Bank Account Application in Java, designed for both Managers and Customers, featuring tiered privileges based on account balance and secure data management. The application includes key banking functionalities such as authentication, transaction management, and account balance tracking, with distinct benefits for different privilege levels. Secure authentication protocols and role-based access management were implemented to ensure data security and efficient account administration, resulting in a robust, user-friendly application for banking operations. <br>
 
 **Demo Video:**
 

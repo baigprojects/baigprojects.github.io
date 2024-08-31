@@ -14,17 +14,16 @@
 Developed a full-stack chatbox application that integrates with the OpenAI API to simulate interactive conversations. The application features dynamic user and bot interactions, with real-time response animations that mimic typing behavior. The project focuses on enhancing user engagement through responsive design and smooth asynchronous operations.
 
 ### Interactive Temperature and Humidity Display
-<div style="display: flex; justify-content: space-between;">
-  <img src="assets/interactive.jfif" alt="Project Image" width="45%"/>
-  <img src="assets/Untitled.gif" alt="Interactive Arduino GIF" width="45%"/>
-</div>
-
 
 ![Interactive Temperature and Humidity Display](assets/interactive.jfif)
 
 **Technologies Used**: _Arduino IDE_
 
-Designed and implemented an Arduino-based temperature and humidity monitoring system with real-time data display on an LCD. The system uses a DHT11 sensor to track conditions, triggering different LEDs and buzzers at specific temperature thresholds: a blue LED for temperatures below 25°C, a green LED for 25°C to 30°C, a yellow LED for 30°C to 35°C with an active buzzer, and a red LED above 35°C accompanied by both active and passive buzzers. The project provided accurate real-time monitoring and clear visual and audio feedback for various temperature levels.
+Designed and implemented an Arduino-based temperature and humidity monitoring system with real-time data display on an LCD. The system uses a DHT11 sensor to track conditions, triggering different LEDs and buzzers at specific temperature thresholds: a blue LED for temperatures below 25°C, a green LED for 25°C to 30°C, a yellow LED for 30°C to 35°C with an active buzzer, and a red LED above 35°C accompanied by both active and passive buzzers. The project provided accurate real-time monitoring and clear visual and audio feedback for various temperature levels. <br>
+**Demo Video:**
+
+![Interactive Arduino GIF](assets/Untitled.gif)
+
 
 ### Bank Account Application
 

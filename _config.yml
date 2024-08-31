@@ -1,14 +1,15 @@
 title: "Sahul Baig's Portfolio"
 logo: /assets/transparent_circle_image.png
 
-description: | 
-  I’m a 3rd-year Computer Engineering student at TMU, passionate about software development, embedded systems, and microcontroller projects.
+description: |
+  I'm a 3rd-year Computer Engineering student at TMU, passionate about software development, embedded systems, and microcontroller projects.  
   <br>
-  Connect with me:
-  linkedin.com/in/sahulbaig  
+  Connect with me:  
+  - [LinkedIn](https://www.linkedin.com/in/sahulbaig)  
   <br>
-  Feel free to contact me at:
-  sahulb2016@gmail.com
+  Feel free to contact me at:  
+  - [sahulb2016@gmail.com](mailto:sahulb2016@gmail.com)
+
 
 show_downloads: false
 theme: jekyll-theme-minimal

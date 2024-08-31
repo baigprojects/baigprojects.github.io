@@ -1,5 +1,5 @@
 title: Sahul Baig
 #logo: /assets/img/headshot_circle.png
-#description: text bellow image
-show_downloads: true
+description: I’m a 3rd-year Computer Engineering student at TMU, passionate about software development, embedded systems, and microcontroller projects.
+show_downloads: false
 theme: jekyll-theme-minimal

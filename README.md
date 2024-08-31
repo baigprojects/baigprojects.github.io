@@ -1,8 +1,5 @@
 # Computer Engineering Student @ Toronto Metropolitan University
 
-## Education
-**BEng in Computer Engineering** | Toronto Metropolitan University (Exp. 2027) 
-
 ## Projects
 
 ### Chatbot Application
@@ -66,6 +63,9 @@ Developed a hands-on electronics project that features a prototype Ultrasonic Di
 - Designed and tested an embedded system using an Arduino, achieving accurate obstacle detection within a 1-foot range, improving detection reliability by 30%
 - Implemented a smoothing algorithm in C++, reducing false triggers by 50% and improving system reliability
 
+
+## Education
+**BEng in Computer Engineering** | Toronto Metropolitan University (Exp. 2027) 
 
 #### Technical Skills: 
 - **Languages:** C, C++, Java, JavaScript, HTML/CSS, VHDL 

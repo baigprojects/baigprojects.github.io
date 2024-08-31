@@ -1,1 +1,5 @@
-# baigprojects.github.io
+# Computer Engineering Student
+
+### Education
+Toronto Metropolitan University
+BEng in Computer Engineering

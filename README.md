@@ -20,6 +20,7 @@ Developed a full-stack chatbox application that integrates with the OpenAI API t
 **Technologies Used**: _Arduino IDE_
 
 Designed and implemented an Arduino-based temperature and humidity monitoring system with real-time data display on an LCD. The system uses a DHT11 sensor to track conditions, triggering different LEDs and buzzers at specific temperature thresholds: a blue LED for temperatures below 25°C, a green LED for 25°C to 30°C, a yellow LED for 30°C to 35°C with an active buzzer, and a red LED above 35°C accompanied by both active and passive buzzers. The project provided accurate real-time monitoring and clear visual and audio feedback for various temperature levels. <br>
+
 **Demo Video:**
 
 ![Interactive Arduino GIF](assets/Untitled.gif)
@@ -47,7 +48,12 @@ Collaborated with a team and designed a Simple Processor using VHDL on an FPGA b
 
 **Technologies Used**: _Arduino IDE_
 
-Developed a hands-on electronics project that features a prototype Ultrasonic Distance Sensor with a real-time LED and Buzzer Alert System using Arduino. The system detects objects within a 1-foot range, activating corresponding LEDs to indicate proximity. A green LED lights up within 12 inches, a yellow LED within 8 inches, and a red LED with an audible buzzer within 4 inches. The project incorporated a smoothing algorithm to average sensor readings, reducing noise and preventing false triggers, resulting in a responsive and accurate alert system.
+Developed a hands-on electronics project that features a prototype Ultrasonic Distance Sensor with a real-time LED and Buzzer Alert System using Arduino. The system detects objects within a 1-foot range, activating corresponding LEDs to indicate proximity. A green LED lights up within 12 inches, a yellow LED within 8 inches, and a red LED with an audible buzzer within 4 inches. The project incorporated a smoothing algorithm to average sensor readings, reducing noise and preventing false triggers, resulting in a responsive and accurate alert system. <br>
+
+**Demo Video:**
+
+![Sensor GIF](assets/sensorvid.gif)
+
 
 ## Work Experience
 **Sales Associate @ Dollar Tree (_July 2021 - Aug 2024_)**

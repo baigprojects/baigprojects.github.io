@@ -33,7 +33,6 @@ Designed and implemented an Arduino-based temperature and humidity monitoring sy
     <br>
     
 ### Bank Account Application
-<br>
 
 ![Bank Account Application](assets/bank_app_image.png)
 
@@ -49,13 +48,13 @@ Developed a Bank Account Application designed for both Managers and Customers, f
     <br>
     
 ### Simple General-Purpose Processor
-
-![Simple General-Purpose Processor](assets/processor_image.jfif)
-
 **Technologies Used**: _VHDL, Field-Programmable Gate Arrays (FPGA)_
 
 Collaborated with a team and designed a Simple Processor using VHDL on an FPGA board. The processor comprised four key components: a Storage Unit with 8-bit registers, an ALU core, a Control Unit with a Finite State Machine (FSM) and a 4:16 decoder, and Seven Segment Display units. The microcoded ALU output was displayed on the Seven Segment Display, providing a visual representation of the results. The project demonstrated the effective integration of VHDL components, resulting in a functional processor with clear visual feedback.
 
+ <br>
+    <br>
+    
 ### Prototype Ultrasonic Distance Sensor with LED and Buzzer Alert System
 
 ![Prototype Ultrasonic Distance Sensor with LED and Buzzer Alert System](assets/ultrasensor.jfif)

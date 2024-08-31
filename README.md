@@ -14,6 +14,11 @@
 Developed a full-stack chatbox application that integrates with the OpenAI API to simulate interactive conversations. The application features dynamic user and bot interactions, with real-time response animations that mimic typing behavior. The project focuses on enhancing user engagement through responsive design and smooth asynchronous operations.
 
 ### Interactive Temperature and Humidity Display
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/interactive.jfif" alt="Project Image" width="45%"/>
+  <img src="assets/Untitled.gif" alt="Interactive Arduino GIF" width="45%"/>
+</div>
+
 
 ![Interactive Temperature and Humidity Display](assets/interactive.jfif)
 

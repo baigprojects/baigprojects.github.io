@@ -8,7 +8,7 @@
 
 **Technologies Used**: _JavaScript, HTML/CSS, Node.js, Express.js, OpenAI API_
 
-Developed a full-stack chatbox application using JavaScript, HTML, and CSS, leveraging Node.js and Express.js to integrate with the OpenAI API for simulating interactive conversations. The application features dynamic user and bot interactions with real-time response animations that mimic typing behavior. The project focuses on enhancing user engagement through responsive design and smooth asynchronous operations.<br>
+Developed a full-stack chatbox application using JavaScript, HTML, and CSS, leveraging Node.js and Express.js to integrate with the OpenAI API for simulating interactive conversations. The application features dynamic user and bot interactions with real-time response animations that mimic typing behaviour. The project focuses on enhancing user engagement through responsive design and smooth asynchronous operations.<br>
 
 **Demo Video:**
 
